@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "178912698156",
+    "project_id": "lolo-live-aykut",
+    "storage_bucket": "lolo-live-aykut.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178912698156:android:8fa04776fc316762895689",
+        "android_client_info": {
+          "package_name": "com.aykutbilisim.lololive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178912698156-ecbroeaop1qo9cu3ummhjcuqiihm4o1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aykutbilisim.lololive",
+            "certificate_hash": "07ba769728da5d087c79213119a9500ab3523a2f"
+          }
+        },
+        {
+          "client_id": "178912698156-opth157jtco54tgjn5v8696qc6ikahv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyashKtnAI3PJEBmH6IFA-LFPaQDhbS8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178912698156-opth157jtco54tgjn5v8696qc6ikahv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
