@@ -1,4 +1,4 @@
-# Shortzz 2.0
+# Lolo Live
 
 # Date: 26 September 2025
 
@@ -8,7 +8,6 @@
 
 We have removed **Branch.io** from the project and implemented our **own deep linking solution**
 following the
-official [Deep Link](https://docs.retrytech.com/shortzz/shortzz_flutter#deeplink_setup).
 
 ### Why We Removed Branch.io
 
