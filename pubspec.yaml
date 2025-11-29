@@ -28,16 +28,16 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependency_overrides:
-  super_native_extensions:
-    git:
-      url: https://github.com/superlistapp/super_native_extensions.git
-      ref: refs/pull/525/head
-      path: super_native_extensions
-  irondash_engine_context:
-    git:
-      url: https://github.com/irondash/irondash.git
-      ref: refs/pull/66/head
-      path: engine_context/dart
+#  super_native_extensions:
+#    git:
+#      url: https://github.com/superlistapp/super_native_extensions.git
+#      ref: refs/pull/525/head
+#      path: super_native_extensions
+#  irondash_engine_context:
+#    git:
+#      url: https://github.com/irondash/irondash.git
+#      ref: refs/pull/66/head
+#      path: engine_context/dart
 dependencies:
   flutter:
     sdk: flutter
